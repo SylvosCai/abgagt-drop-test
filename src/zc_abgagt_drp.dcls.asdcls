@@ -1,6 +1,5 @@
 @EndUserText.label: 'abapGit Agent Drop Test - Access Control'
 @MappingRole: true
 define role zc_abgagt_drp {
-  grant select on zc_abgagt_drp
-  where inheriting conditions from entity zabgagt_drp_tabl;
+  grant select on zc_abgagt_drp where ( id ) = aspect user;
 }
