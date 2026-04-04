@@ -1,18 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <abapGit version="v1.0.0" serializer="LCL_OBJECT_TTYP" serializer_version="v1.0.0">
- <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
-  <asx:values>
-   <DD40V>
-    <TYPENAME>ZABGAGT_DRP_TTYP</TYPENAME>
-    <DDLANGUAGE>E</DDLANGUAGE>
-    <ROWTYPE>ZABGAGT_DRP_TABL</ROWTYPE>
-    <ROWKIND>S</ROWKIND>
-    <TTYPKIND>T</TTYPKIND>
-    <ACCESSMODE>T</ACCESSMODE>
-    <KEYDEF>D</KEYDEF>
-    <KEYKIND>N</KEYKIND>
-    <DDTEXT>abapGit Agent Drop Test - Table Type</DDTEXT>
-   </DD40V>
-  </asx:values>
- </asx:abap>
+ <asx:abap version="1.0" xmlns:asx="http://www.sap.com/abapxml"/>
 </abapGit>

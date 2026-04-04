@@ -1,5 +1,2 @@
-*---------------------------------------------------------------------*
-*       INCLUDE SAPLZABGAGT_DRP_FUGR                                  *
-*---------------------------------------------------------------------*
-INCLUDE lzabgagt_drp_fugrtop.
-INCLUDE lzabgagt_drp_fugru01.
+INCLUDE LZABGAGT_DRP_FUGRTOP.
+INCLUDE LZABGAGT_DRP_FUGRU01.
