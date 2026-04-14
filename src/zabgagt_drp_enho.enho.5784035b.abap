@@ -1,0 +1,5 @@
+"Name: \TY:ZCL_ABGAGT_DRP_TEST\ME:GET_VALUE\SE:BEGIN\EI
+ENHANCEMENT 0 ZABGAGT_DRP_ENHO.
+  DATA lv_marker TYPE string.
+  lv_marker = 'drop-test-enho'.
+ENDENHANCEMENT.
